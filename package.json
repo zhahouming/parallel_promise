@@ -1,0 +1,29 @@
+{
+  "name": "parallel-promise",
+  "version": "1.0.0",
+  "description": "running cpu-intensive task in parallel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhahouming/parallel_promise.git"
+  },
+  "keywords": [
+    "parallel",
+    "cpu",
+    "intensive",
+    "promise"
+  ],
+  "engines": {
+    "node": ">= 10.5.0",
+    "npm": ">= 6.1.0"
+  },
+  "author": "zhahouming@hotmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhahouming/parallel_promise/issues"
+  },
+  "homepage": "https://github.com/zhahouming/parallel_promise#readme"
+}
